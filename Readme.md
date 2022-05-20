@@ -22,7 +22,7 @@
 
 ## Preview
 
-<a title="Feedback App" href="" >Clique aqui </a> para ter acesso a um  preview do App.
+<a title="Feedback App" href="https://leandrolid.github.io/feedback-app/" >Clique aqui </a> para ter acesso a um  preview do App.
 
 ## Sobre o Feedback App 
 
