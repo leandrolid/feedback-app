@@ -22,11 +22,11 @@
 
 ## Preview
 
-<a title="Feedback App" href="" >Clique aqui </a> para ter acesso a um  preview do App.
+<a title="Feedback App" href="https://leandrolid.github.io/feedback-app/" >Clique aqui </a> para ter acesso a um  preview do App.
 
 ## Sobre o Feedback App 
 
-Essa é a minha versão do projeto desenvolvido no bootcamp NLW Return. Se trata de um widget para envio de feedbacks sobre o app, estes categorizados em "bug", "ideia" e "outro". Além do feedback em texto você também pode fazer uma captura da tela no momento atual para ser enviado para análize.
+Essa é a minha versão do projeto desenvolvido no bootcamp NLW Return. Se trata de um widget para envio de feedbacks sobre o app, estes categorizados em "bug", "ideia" e "outro". Além do feedback em texto você também pode fazer uma captura da tela no momento atual para ser enviado para análise.
 
 O app foi feito usando React e Tailwind, e também com uso do TypeScript.
 <br>
