@@ -8,7 +8,6 @@
   <a title="Feedback App" href="https://leandrolid.github.io/feedback-app/">Preview</a>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/leandrolid/feedback-app?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/leandrolid/feedback-app?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/leandrolid/feedback-app?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/leandrolid/feedback-app?style=default&color=0080ff" alt="repo-language-count">
